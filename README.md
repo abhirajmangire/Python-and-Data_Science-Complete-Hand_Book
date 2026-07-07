@@ -46,31 +46,6 @@
 | 15 | [Interview Question Bank](chapters/15_interview_questions.md) | 250+ Q&A across Python, DS, ML, DL, NLP, HR |
 | 16 | [Cheat Sheets](chapters/16_cheatsheets.md) | One-page quick-reference for every topic |
 
----
-
-## 🗂️ Repo structure
-
-```
-python-data-science-handbook/
-├── README.md                      ← you are here (index)
-└── chapters/
-    ├── 01_python_basics.md
-    ├── 02_python_intermediate.md
-    ├── 03_python_oop.md
-    ├── 04_python_advanced.md
-    ├── 05_numpy.md
-    ├── 06_pandas.md
-    ├── 07_visualization.md
-    ├── 08_statistics.md
-    ├── 09_eda_cleaning.md
-    ├── 10_ml_foundations.md
-    ├── 11_ml_algorithms.md
-    ├── 12_model_evaluation.md
-    ├── 13_deep_learning.md
-    ├── 14_nlp.md
-    ├── 15_interview_questions.md
-    └── 16_cheatsheets.md
-```
 
 ## ⭐ Recommended learning path
 
