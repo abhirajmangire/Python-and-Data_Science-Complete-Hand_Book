@@ -1,6 +1,6 @@
 # Chapter 1 — Python Basics
 
-[← Back to Index](../README.md) | [Next: Python Intermediate →](02_python_intermediate.md)
+[← Back to Index](README.md) | [Next: Python Intermediate →](02_python_intermediate.md)
 
 ---
 
