@@ -2,10 +2,6 @@
 
 > A from-scratch, exam-and-interview-ready reference covering **Python (Basics → Advanced)**, **Data Science**, **Machine Learning**, **Deep Learning**, and **NLP** — built to be read straight through or used as a lookup reference.
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-![Made for](https://img.shields.io/badge/Made%20for-Self%20Learners%20%26%20Interview%20Prep-orange)
 
 ---
 
