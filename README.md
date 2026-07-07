@@ -9,18 +9,6 @@
 
 ---
 
-## 📖 How to use this handbook
-
-- **On GitHub**: click any chapter link below — it renders directly, no download needed.
-- **On mobile**: GitHub's app/mobile site renders these Markdown files natively — perfectly readable on a phone.
-- **Offline**: clone the repo, open in VS Code with the Markdown Preview, or any Markdown viewer.
-- Each chapter is self-contained: definitions → syntax → examples → common mistakes → interview questions.
-- 🔑 = key interview topic. 💡 = practical tip. ⚠️ = common mistake/gotcha.
-
-```bash
-git clone <your-repo-url>
-cd python-data-science-handbook
-```
 
 ---
 
